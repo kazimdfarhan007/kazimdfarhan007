@@ -30,7 +30,7 @@
 
 ---
 
-### 🧰 Automation & QA Tech Stack (2026 Industry Standard)
+### 🧰 Automation & QA Tech Stack
 
 <table>
   <thead>
