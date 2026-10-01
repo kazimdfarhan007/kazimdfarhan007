@@ -98,11 +98,14 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats & Real Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimdfarhan007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimdfarhan007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=kazimdfarhan007&theme=tokyonight&hide_border=true" alt="Farhan's GitHub Streak & Contributions" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimdfarhan007&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" />
 </div>
 
 ---
