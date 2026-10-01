@@ -27,6 +27,7 @@
 - 🔌 **API & Backend Automation**: Comprehensive REST API automation, contract testing, and schema validation using **Postman**, **Newman**, and **Vitest**.
 - 📊 **Test Observability & Reporting**: Integrating **Allure Reports**, Playwright Traces, DOM snapshots, and video recordings for rapid failure triaging.
 - 🏢 **Full-Stack Engineering Awareness**: Deep hands-on experience with **Next.js App Router**, **Prisma ORM**, and **PostgreSQL** — empowering deep white-box testing, synthetic data seeding, and DB state isolation.
+- 📫 **Reach Out**: [kazimdfarhan007@gmail.com](mailto:kazimdfarhan007@gmail.com)
 
 ---
 
